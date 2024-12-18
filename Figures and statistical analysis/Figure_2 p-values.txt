@@ -1,0 +1,63 @@
+
+                          sum_sq    df         F    PR(>F)
+C(Device)           1.831566e+06   3.0  6.206138  0.014564
+C(Angle)            1.193539e+06   3.0  4.044227  0.047315
+C(Device):C(Angle)  2.992225e+06   9.0  3.379651  0.007631
+Residual            8.853651e+06  90.0       NaN       NaN
+
+
+Performing Tukey's HSD...
+
+         Multiple Comparison of Means - Tukey HSD, FWER=0.05
+======================================================================
+    group1        group2    meandiff p-adj    lower     upper   reject
+----------------------------------------------------------------------
+ DSLR angle 1  DSLR angle 2     -9.8    1.0 -464.8855  445.2855  False
+ DSLR angle 1  DSLR angle 3     53.3    1.0 -401.7855  508.3855  False
+ DSLR angle 1 GoPro angle 1    -78.3 0.9999 -533.3855  376.7855  False
+ DSLR angle 1 GoPro angle 2   -108.1 0.9988 -563.1855  346.9855  False
+ DSLR angle 1 GoPro angle 3   -109.8 0.9987 -564.8855  345.2855  False
+ DSLR angle 1         Human    534.6 0.0091   79.5145  989.6855   True
+ DSLR angle 1    PP angle 1    100.4 0.9993 -354.6855  555.4855  False
+ DSLR angle 1    PP angle 2     29.7    1.0 -425.3855  484.7855  False
+ DSLR angle 1    PP angle 3      7.0    1.0 -448.0855  462.0855  False
+ DSLR angle 2  DSLR angle 3     63.1    1.0 -391.9855  518.1855  False
+ DSLR angle 2 GoPro angle 1    -68.5    1.0 -523.5855  386.5855  False
+ DSLR angle 2 GoPro angle 2    -98.3 0.9994 -553.3855  356.7855  False
+ DSLR angle 2 GoPro angle 3   -100.0 0.9994 -555.0855  355.0855  False
+ DSLR angle 2         Human    544.4 0.0072   89.3145  999.4855   True
+ DSLR angle 2    PP angle 1    110.2 0.9986 -344.8855  565.2855  False
+ DSLR angle 2    PP angle 2     39.5    1.0 -415.5855  494.5855  False
+ DSLR angle 2    PP angle 3     16.8    1.0 -438.2855  471.8855  False
+ DSLR angle 3 GoPro angle 1   -131.6 0.9947 -586.6855  323.4855  False
+ DSLR angle 3 GoPro angle 2   -161.4 0.9777 -616.4855  293.6855  False
+ DSLR angle 3 GoPro angle 3   -163.1 0.9761 -618.1855  291.9855  False
+ DSLR angle 3         Human    481.3 0.0294   26.2145  936.3855   True
+ DSLR angle 3    PP angle 1     47.1    1.0 -407.9855  502.1855  False
+ DSLR angle 3    PP angle 2    -23.6    1.0 -478.6855  431.4855  False
+ DSLR angle 3    PP angle 3    -46.3    1.0 -501.3855  408.7855  False
+GoPro angle 1 GoPro angle 2    -29.8    1.0 -484.8855  425.2855  False
+GoPro angle 1 GoPro angle 3    -31.5    1.0 -486.5855  423.5855  False
+GoPro angle 1         Human    612.9 0.0013  157.8145 1067.9855   True
+GoPro angle 1    PP angle 1    178.7 0.9569 -276.3855  633.7855  False
+GoPro angle 1    PP angle 2    108.0 0.9988 -347.0855  563.0855  False
+GoPro angle 1    PP angle 3     85.3 0.9998 -369.7855  540.3855  False
+GoPro angle 2 GoPro angle 3     -1.7    1.0 -456.7855  453.3855  False
+GoPro angle 2         Human    642.7 0.0006  187.6145 1097.7855   True
+GoPro angle 2    PP angle 1    208.5 0.8941 -246.5855  663.5855  False
+GoPro angle 2    PP angle 2    137.8 0.9926 -317.2855  592.8855  False
+GoPro angle 2    PP angle 3    115.1 0.9981 -339.9855  570.1855  False
+GoPro angle 3         Human    644.4 0.0006  189.3145 1099.4855   True
+GoPro angle 3    PP angle 1    210.2 0.8893 -244.8855  665.2855  False
+GoPro angle 3    PP angle 2    139.5 0.9919 -315.5855  594.5855  False
+GoPro angle 3    PP angle 3    116.8 0.9979 -338.2855  571.8855  False
+        Human    PP angle 1   -434.2 0.0744 -889.2855   20.8855  False
+        Human    PP angle 2   -504.9 0.0178 -959.9855  -49.8145   True
+        Human    PP angle 3   -527.6 0.0107 -982.6855  -72.5145   True
+   PP angle 1    PP angle 2    -70.7    1.0 -525.7855  384.3855  False
+   PP angle 1    PP angle 3    -93.4 0.9996 -548.4855  361.6855  False
+   PP angle 2    PP angle 3    -22.7    1.0 -477.7855  432.3855  False
+----------------------------------------------------------------------
+
+
+

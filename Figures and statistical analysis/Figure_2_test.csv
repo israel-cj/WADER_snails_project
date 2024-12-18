@@ -1,0 +1,101 @@
+index,Device_Angle,Count,Device,Angle
+0,DSLR angle 1,311,DSLR,1
+1,DSLR angle 1,397,DSLR,1
+2,DSLR angle 1,854,DSLR,1
+3,DSLR angle 1,160,DSLR,1
+4,DSLR angle 1,208,DSLR,1
+5,DSLR angle 1,86,DSLR,1
+6,DSLR angle 1,31,DSLR,1
+7,DSLR angle 1,110,DSLR,1
+8,DSLR angle 1,87,DSLR,1
+9,DSLR angle 1,214,DSLR,1
+0,DSLR angle 2,265,DSLR,2
+1,DSLR angle 2,401,DSLR,2
+2,DSLR angle 2,289,DSLR,2
+3,DSLR angle 2,170,DSLR,2
+4,DSLR angle 2,280,DSLR,2
+5,DSLR angle 2,543,DSLR,2
+6,DSLR angle 2,25,DSLR,2
+7,DSLR angle 2,131,DSLR,2
+8,DSLR angle 2,89,DSLR,2
+9,DSLR angle 2,167,DSLR,2
+0,DSLR angle 3,368,DSLR,3
+1,DSLR angle 3,458,DSLR,3
+2,DSLR angle 3,866,DSLR,3
+3,DSLR angle 3,154,DSLR,3
+4,DSLR angle 3,218,DSLR,3
+5,DSLR angle 3,549,DSLR,3
+6,DSLR angle 3,16,DSLR,3
+7,DSLR angle 3,109,DSLR,3
+8,DSLR angle 3,61,DSLR,3
+9,DSLR angle 3,192,DSLR,3
+0,GoPro angle 1,230,GoPro,1
+1,GoPro angle 1,278,GoPro,1
+2,GoPro angle 1,491,GoPro,1
+3,GoPro angle 1,141,GoPro,1
+4,GoPro angle 1,189,GoPro,1
+5,GoPro angle 1,29,GoPro,1
+6,GoPro angle 1,31,GoPro,1
+7,GoPro angle 1,94,GoPro,1
+8,GoPro angle 1,50,GoPro,1
+9,GoPro angle 1,142,GoPro,1
+0,GoPro angle 2,123,GoPro,2
+1,GoPro angle 2,157,GoPro,2
+2,GoPro angle 2,284,GoPro,2
+3,GoPro angle 2,126,GoPro,2
+4,GoPro angle 2,187,GoPro,2
+5,GoPro angle 2,239,GoPro,2
+6,GoPro angle 2,20,GoPro,2
+7,GoPro angle 2,70,GoPro,2
+8,GoPro angle 2,59,GoPro,2
+9,GoPro angle 2,112,GoPro,2
+0,GoPro angle 3,145,GoPro,3
+1,GoPro angle 3,178,GoPro,3
+2,GoPro angle 3,168,GoPro,3
+3,GoPro angle 3,302,GoPro,3
+4,GoPro angle 3,168,GoPro,3
+5,GoPro angle 3,119,GoPro,3
+6,GoPro angle 3,19,GoPro,3
+7,GoPro angle 3,57,GoPro,3
+8,GoPro angle 3,40,GoPro,3
+9,GoPro angle 3,164,GoPro,3
+0,PP angle 1,342,PP,1
+1,PP angle 1,377,PP,1
+2,PP angle 1,632,PP,1
+3,PP angle 1,231,PP,1
+4,PP angle 1,286,PP,1
+5,PP angle 1,1113,PP,1
+6,PP angle 1,45,PP,1
+7,PP angle 1,117,PP,1
+8,PP angle 1,100,PP,1
+9,PP angle 1,219,PP,1
+0,PP angle 2,370,PP,2
+1,PP angle 2,449,PP,2
+2,PP angle 2,392,PP,2
+3,PP angle 2,164,PP,2
+4,PP angle 2,204,PP,2
+5,PP angle 2,783,PP,2
+6,PP angle 2,28,PP,2
+7,PP angle 2,99,PP,2
+8,PP angle 2,57,PP,2
+9,PP angle 2,209,PP,2
+0,PP angle 3,342,PP,3
+1,PP angle 3,356,PP,3
+2,PP angle 3,590,PP,3
+3,PP angle 3,322,PP,3
+4,PP angle 3,230,PP,3
+5,PP angle 3,315,PP,3
+6,PP angle 3,34,PP,3
+7,PP angle 3,117,PP,3
+8,PP angle 3,63,PP,3
+9,PP angle 3,159,PP,3
+0,Human,693,Human,Human
+1,Human,793,Human,Human
+2,Human,1965,Human,Human
+3,Human,329,Human,Human
+4,Human,588,Human,Human
+5,Human,2424,Human,Human
+6,Human,64,Human,Human
+7,Human,230,Human,Human
+8,Human,229,Human,Human
+9,Human,489,Human,Human

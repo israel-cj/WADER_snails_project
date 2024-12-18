@@ -1,0 +1,49 @@
+name,model,count,category
+100_Clumped,Human,99.0,Clumped
+100_Spaced,Human,99.0,Spaced
+200_Clumped,Human,189.0,Clumped
+200_Spaced,Human,191.0,Spaced
+300_Clumped,Human,276.0,Clumped
+300_Spaced,Human,288.0,Spaced
+400_Clumped,Human,373.0,Clumped
+400_Spaced,Human,385.0,Spaced
+100_Clumped,CounTR,262.1666666666667,Clumped
+100_Spaced,CounTR,70.83333333333333,Spaced
+200_Clumped,CounTR,284.3333333333333,Clumped
+200_Spaced,CounTR,121.83333333333333,Spaced
+300_Clumped,CounTR,149.33333333333334,Clumped
+300_Spaced,CounTR,203.5,Spaced
+400_Clumped,CounTR,74.66666666666667,Clumped
+400_Spaced,CounTR,312.6666666666667,Spaced
+100_Clumped,DeepDataSpace,102.33333333333333,Clumped
+100_Spaced,DeepDataSpace,95.5,Spaced
+200_Clumped,DeepDataSpace,181.16666666666666,Clumped
+200_Spaced,DeepDataSpace,194.0,Spaced
+300_Clumped,DeepDataSpace,236.5,Clumped
+300_Spaced,DeepDataSpace,285.5,Spaced
+400_Clumped,DeepDataSpace,180.5,Clumped
+400_Spaced,DeepDataSpace,362.3333333333333,Spaced
+100_Clumped,Grounded counting Dino,149.83333333333334,Clumped
+100_Spaced,Grounded counting Dino,254.5,Spaced
+200_Clumped,Grounded counting Dino,71.83333333333333,Clumped
+200_Spaced,Grounded counting Dino,262.8333333333333,Spaced
+300_Clumped,Grounded counting Dino,71.83333333333333,Clumped
+300_Spaced,Grounded counting Dino,235.16666666666666,Spaced
+400_Clumped,Grounded counting Dino,54.666666666666664,Clumped
+400_Spaced,Grounded counting Dino,185.5,Spaced
+100_Clumped,Segment anything,90.5,Clumped
+100_Spaced,Segment anything,36.333333333333336,Spaced
+200_Clumped,Segment anything,62.0,Clumped
+200_Spaced,Segment anything,123.66666666666667,Spaced
+300_Clumped,Segment anything,106.66666666666667,Clumped
+300_Spaced,Segment anything,129.33333333333334,Spaced
+400_Clumped,Segment anything,87.83333333333333,Clumped
+400_Spaced,Segment anything,168.0,Spaced
+100_Clumped,Training free object,3.1666666666666665,Clumped
+100_Spaced,Training free object,3.1666666666666665,Spaced
+200_Clumped,Training free object,3.3333333333333335,Clumped
+200_Spaced,Training free object,2.1666666666666665,Spaced
+300_Clumped,Training free object,6.5,Clumped
+300_Spaced,Training free object,2.0,Spaced
+400_Clumped,Training free object,4.333333333333333,Clumped
+400_Spaced,Training free object,1.6666666666666667,Spaced

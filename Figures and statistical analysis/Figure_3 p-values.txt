@@ -1,0 +1,25 @@
+              df        sum_sq        mean_sq          F        PR(>F)
+C(models)    5.0  2.997764e+06  599552.881481  23.500701  1.208694e-15
+Residual   102.0  2.602237e+06   25512.127451        NaN           NaN
+
+
+                  Multiple Comparison of Means - Tukey HSD, FWER=0.05
+=======================================================================================
+        group1                group2         meandiff p-adj    lower     upper   reject
+---------------------------------------------------------------------------------------
+                  SAM                countr  203.1111 0.0031   48.4644  357.7578   True
+                  SAM         deepdataspace  256.3889 0.0001  101.7422  411.0356   True
+                  SAM grounded_countingDINO   56.2778  0.897  -98.3689  210.9245  False
+                  SAM                  real  401.5556    0.0  246.9088  556.2023   True
+                  SAM     training_free_obj  -92.4444 0.5113 -247.0912   62.2023  False
+               countr         deepdataspace   53.2778 0.9167 -101.3689  207.9245  False
+               countr grounded_countingDINO -146.8333 0.0729 -301.4801    7.8134  False
+               countr                  real  198.4444 0.0042   43.7977  353.0912   True
+               countr     training_free_obj -295.5556    0.0 -450.2023 -140.9088   True
+        deepdataspace grounded_countingDINO -200.1111 0.0038 -354.7578  -45.4644   True
+        deepdataspace                  real  145.1667 0.0788   -9.4801  299.8134  False
+        deepdataspace     training_free_obj -348.8333    0.0 -503.4801 -194.1866   True
+grounded_countingDINO                  real  345.2778    0.0  190.6311  499.9245   True
+grounded_countingDINO     training_free_obj -148.7222 0.0667 -303.3689    5.9245  False
+                 real     training_free_obj    -494.0    0.0 -648.6467 -339.3533   True
+---------------------------------------------------------------------------------------
